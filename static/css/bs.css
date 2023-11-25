@@ -1,0 +1,66 @@
+body {
+    padding-top: 56px;
+}
+
+.card {
+    margin: 20px 0;
+}
+
+#carouselExampleCaptions {
+    margin: 20px 0;
+}
+
+.btn-success {
+    margin-top: 20px;
+}
+
+h1 {
+    color: black;
+
+}
+
+h5 {
+    color: white;
+}
+
+.hello {
+    color: blue;
+    background-color: white;
+}
+
+.carousel-inner img {
+    object-fit: cover;
+    width: 600px;
+    height: 750px;
+}
+
+.abc {
+    background: linear-gradient(45deg, rgba(120, 150, 10, 1), rgba(255, 0, 0, 0.5));
+
+}
+
+.dropdown-menu {
+    background-color: black;
+}
+
+.card-img-top {
+    width: 287px;
+    height: 300px;
+}
+
+.card-title {
+    color: black;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: linear-gradient(45deg,
+            rgba(120, 150, 10, 1),
+            rgba(255, 0, 0, 0.5));
+}
+
+.nav-link:hover
+{
+    text-decoration: underline;
+}
